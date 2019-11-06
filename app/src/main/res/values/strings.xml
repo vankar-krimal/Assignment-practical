@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <string name="no_internet">No Internet</string>
+    <string name="cannot_parse">Cannot Parse Data</string>
+    <string name="no_description">No Description</string>
+    <string name="no_title">No Title</string>
+
+    <string name="refresh">Refresh</string>
+</resources>
